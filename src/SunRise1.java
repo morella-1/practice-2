@@ -1,5 +1,3 @@
-
-
 public class SunRise1 {
     public static void main(String args[]) {
     SquareEquation equation=new SquareEquation(4,5,1);
