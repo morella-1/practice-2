@@ -52,3 +52,4 @@ public class CompanySalary {
         System.out.println("公司薪水总额:"+company.salariesPay()+"元");
     }
 }
+

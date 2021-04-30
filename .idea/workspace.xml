@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f17e328-6fa4-44eb-84b0-23033398e28f" name="Default Changelist" comment="hello" />
+    <list default="true" id="647b03e5-2955-4c83-91b9-0d096453adca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RefDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/SunRise1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/SunRise1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CompanySalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CompanySalary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/Cycle/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Cycle/Bicycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/Cycle/Ride.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Cycle/Ride.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/Cycle/Tricycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Cycle/Tricycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/Cycle/Unicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Cycle/Unicycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/think/polymorphism/music3/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/think/polymorphism/music3/Instrument.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,56 +25,47 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
-      </GitPushTagMode>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1rWWkULrCxHuFQdACMdmBo16e3n" />
+  <component name="ProjectId" id="1sNcLn4lHsvYOG8kD8m0vYFXvSI" />
   <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JShellLanguage" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
   </component>
-  <component name="RunManager" selected="Application.CompanySalary">
-    <configuration name="CompanySalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CompanySalary" />
+  <component name="RunManager" selected="Application.Demo1">
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo1" />
       <module name="practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example" />
+    <configuration name="Penguin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Penguin" />
       <module name="practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Number2" />
+    <configuration name="RefDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RefDemo02" />
       <module name="practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SaveMoney" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SaveMoney" />
+    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestDemo" />
       <module name="practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,30 +73,22 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CompanySalary" />
-        <item itemvalue="Application.Example" />
-        <item itemvalue="Application.SaveMoney" />
-        <item itemvalue="Application.Number2" />
+        <item itemvalue="Application.Demo1" />
+        <item itemvalue="Application.Penguin" />
+        <item itemvalue="Application.RefDemo02" />
+        <item itemvalue="Application.TestDemo" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0f17e328-6fa4-44eb-84b0-23033398e28f" name="Default Changelist" comment="" />
-      <created>1619092471539</created>
+      <changelist id="647b03e5-2955-4c83-91b9-0d096453adca" name="Default Changelist" comment="" />
+      <created>1620716438105</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1619092471539</updated>
+      <updated>1620716438105</updated>
     </task>
-    <task id="LOCAL-00001" summary="hello">
-      <created>1619444014382</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1619444014382</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,22 +101,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="hello" />
-    <option name="LAST_COMMIT_MESSAGE" value="hello" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-field">
-          <url>file://$PROJECT_DIR$/../People.java/src/Bank.java</url>
-          <line>3</line>
-          <properties field="interest" class="Bank" />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

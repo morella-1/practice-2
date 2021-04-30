@@ -1,8 +1,8 @@
 package Practice.Cycle;
 
 public class Bicycle extends Cycle{
-    public void play(){
-        System.out.println("Bicycle");
+    public int wheels(){
+        return 1;
     }
 }
 
