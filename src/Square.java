@@ -1,9 +1,8 @@
 class Square extends Shape {
-    public Square (double a){
-        this.a=a;
-    }
-    public double getArea(){
-        return a*a;
+
+    double getArea(){
+        System.out.println("正方形的面积为"+this.Area);
+        return this.Area;
     }
 
 }

@@ -1,8 +1,10 @@
   class Circle extends Shape {
-    public Circle (double r)
-    {a=r;b=0;}
-    public double getArea(){
-        return pi*a*a;
-    }
 
-}
+
+      double getArea() {
+          System.out.println("圆的面积为" + this.Area);
+          return this.Area;
+      }
+  }
+
+

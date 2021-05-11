@@ -1,9 +1,8 @@
 public abstract class Shape{
 
-    final double pi=3.14;
+    double Area=10;
 
-    protected double a,b;
+    abstract double getArea();
 
-         public abstract double getArea();
 }
 
