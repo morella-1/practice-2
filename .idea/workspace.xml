@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="647b03e5-2955-4c83-91b9-0d096453adca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Penguin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RefDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+    <list default="true" id="647b03e5-2955-4c83-91b9-0d096453adca" name="Default Changelist" comment="hello">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/SunRise1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/SunRise1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CompanySalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CompanySalary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Cycle/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Cycle/Bicycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Cycle/Ride.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Cycle/Ride.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Cycle/Tricycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Cycle/Tricycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Cycle/Unicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Cycle/Unicycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/think/polymorphism/music3/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/think/polymorphism/music3/Instrument.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Demo1">
+  <component name="RunManager" selected="Application.S">
     <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo1" />
       <module name="practice" />
@@ -64,6 +51,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="S" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="S" />
+      <module name="practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestDemo" />
       <module name="practice" />
@@ -73,6 +67,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.S" />
         <item itemvalue="Application.Demo1" />
         <item itemvalue="Application.Penguin" />
         <item itemvalue="Application.RefDemo02" />
@@ -89,6 +84,21 @@
       <option name="presentableId" value="Default" />
       <updated>1620716438105</updated>
     </task>
+    <task id="LOCAL-00001" summary="hello">
+      <created>1620721188668</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620721188668</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hello">
+      <created>1620741038435</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620741038435</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,5 +111,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hello" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello" />
   </component>
 </project>
