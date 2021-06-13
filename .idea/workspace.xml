@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="647b03e5-2955-4c83-91b9-0d096453adca" name="Default Changelist" comment="hello">
-      <change afterPath="$PROJECT_DIR$/src/gui/Example.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnalysisResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnalysisResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculateVolume.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CalculateVolume.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReadZipFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReadZipFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/FrameDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/FrameDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/MyFrame1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/MyFrame1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/sin/GraphicPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/sin/GraphicPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/sin/MyFrameSin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/sin/MyFrameSin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,10 +24,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="1sNcLn4lHsvYOG8kD8m0vYFXvSI" />
   <component name="ProjectViewState">
@@ -33,23 +42,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Example">
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo1" />
+  <component name="RunManager" selected="Application.ReadZipFile">
+    <configuration name="AnalysisResult" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnalysisResult" />
       <module name="practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gui.Example" />
+    <configuration name="CalculateVolume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculateVolume" />
       <module name="practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="gui.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -67,34 +70,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Penguin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Penguin" />
+    <configuration name="MyFrame1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.MyFrame1" />
       <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RefDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RefDemo02" />
+    <configuration name="ReadZipFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReadZipFile" />
       <module name="practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo1" />
-      <item itemvalue="Application.Penguin" />
-      <item itemvalue="Application.RefDemo02" />
       <item itemvalue="Application.FrameDemo" />
-      <item itemvalue="Application.Example" />
+      <item itemvalue="Application.AnalysisResult" />
+      <item itemvalue="Application.CalculateVolume" />
+      <item itemvalue="Application.ReadZipFile" />
+      <item itemvalue="Application.MyFrame1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example" />
+        <item itemvalue="Application.ReadZipFile" />
+        <item itemvalue="Application.CalculateVolume" />
+        <item itemvalue="Application.AnalysisResult" />
+        <item itemvalue="Application.MyFrame1" />
         <item itemvalue="Application.FrameDemo" />
-        <item itemvalue="Application.Demo1" />
-        <item itemvalue="Application.Penguin" />
-        <item itemvalue="Application.RefDemo02" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +165,35 @@
       <option name="project" value="LOCAL" />
       <updated>1621605297107</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="hello">
+      <created>1621608574590</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1621608574590</updated>
+    </task>
+    <task id="LOCAL-00009" summary="hello">
+      <created>1621608801568</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1621608801568</updated>
+    </task>
+    <task id="LOCAL-00010" summary="hello">
+      <created>1622036431912</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1622036431912</updated>
+    </task>
+    <task id="LOCAL-00011" summary="hello">
+      <created>1622969579311</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1622969579311</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

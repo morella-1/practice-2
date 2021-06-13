@@ -7,7 +7,7 @@ public class GraphicPanel extends JPanel {
    int range=60;
    int grain=10;
    int freq=2;
-
+   int shift=3;
    // int height=this.getHeight();
    //int width=this.getWidth();
 
@@ -29,8 +29,8 @@ public class GraphicPanel extends JPanel {
 int center=height/2;
 int x1=0,y1=center,x2=0,y2=0;
 for(int i=0;i<=width;i+=grain){
-    x2=i;
-    y2=(int) (range*Math.sin(Math.toRadians(x2*freq))+center);
+    x2=i+shift;
+    y2=(int) (range*Math.sin(Math.toRadians(x2*freq)+shift)+center);
     g.drawLine(x1,y1,x2,y2);
     x1=x2;
     y1=y2;

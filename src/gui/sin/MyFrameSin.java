@@ -12,7 +12,7 @@ public class MyFrameSin extends MyFrame {
     JSpinner grainField=new JSpinner(new SpinnerNumberModel(10,1,200,1));
     JSpinner rangeField=new JSpinner(new SpinnerNumberModel(60,2,100,5));
     JSpinner freqField=new JSpinner(new SpinnerNumberModel(2,1,200,5));
-
+    JSpinner shiftField=new JSpinner(new SpinnerNumberModel(30,2,100,5));
 
 
 
@@ -28,6 +28,8 @@ public class MyFrameSin extends MyFrame {
             graphicPanel.add(rangeField);
             graphicPanel.add(new JLabel("频率"));
             graphicPanel.add(freqField);
+            graphicPanel.add(new JLabel("位移"));
+            graphicPanel.add(shiftField);
 
         ChangeListener listener=new ChangeListener() {
             @Override
@@ -38,6 +40,7 @@ public class MyFrameSin extends MyFrame {
            rangeField.addChangeListener(listener);
            freqField.addChangeListener(listener);
            grainField.addChangeListener(listener);
+           shiftField.addChangeListener(listener);
         }
         void updateUI(){
         graphicPanel.grain=(Integer)
@@ -48,6 +51,9 @@ rangeField.getValue();
 
         graphicPanel.freq=(Integer)
                 freqField.getValue();
+        graphicPanel.repaint();
+
+        shiftField.getValue();
         graphicPanel.repaint();
         }
 

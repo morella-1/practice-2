@@ -12,6 +12,6 @@ public class FrameDemo {
 
 
         MyFrameSin frameSin=new MyFrameSin("正弦曲线");
-
+ JSpinner graphicPanel=new JSpinner();
     }
 }
